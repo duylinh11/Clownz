@@ -1,0 +1,2 @@
+2022-05-14T06:32:01+00:00 CRITICAL Out of memory (allocated 98566144) (tried to allocate 40960 bytes) in C:\xampp\htdocs\clownz\wp-includes\pomo\mo.php on line 297
+
